@@ -1,8 +1,6 @@
 # Be The Hero
  
-Aplicação que faz a conexão entre ONGs e possíveis contribuintes
- 
-Desenvolvida com a stack React, React Native, Node e SQLite
+Aplicação desenvolvida com a stack React, React Native, Node e SQLite que faz a conexão entre ONGs e possíveis contribuintes.
 
 ## Rodando a aplicação
 
