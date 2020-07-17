@@ -4,7 +4,7 @@ Aplicação desenvolvida com a stack React, React Native, Node e SQLite que faz 
 
 ## Rodando a aplicação
 
-> é possível utilizar npm ou o yarn para executar os comandos citados
+> Pode-se utilizar npm ou o yarn para executar os comandos abaixo
 
 ### Instalar as dependências
 Execute "npm install" nas pastas backend, frontend e mobile
