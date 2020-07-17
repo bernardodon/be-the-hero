@@ -4,7 +4,7 @@
  
 <h3 align="center">Desenvolvida com a stack React, React Native, Node e SQLite<h3>
 
-##Rodando a aplicação
+Rodando a aplicação
  
 <h4 align="center">Instalar as dependências<h4>
 Execute "npm install" nas pastas backend, frontend e mobile
